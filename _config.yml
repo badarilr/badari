@@ -9,12 +9,10 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- -title: Blog
-   url: https://automateddeveloper.blogspot.com/
- - title: GitHub
+ - title: Blog
    url: https://github.com/badarilr
-  - title: LinkedIn
-   url:https://www.linkedin.com/in/badarinathlr/
+ - title: Linkedin
+   url: https://www.linkedin.com/in/badarinathlr/
  
 
 #Any buzzword skills you want to include
@@ -63,14 +61,14 @@ education:
 
 intro: |
  Knowledgeable and performance-driven Test Lead with experience in overall 12+ years in in software design and testing of Web, Content Management System,Power Apps, MFP, Identity Access Management and Mobile applications. Proven ability in all facets of quality control such as test planning, functional testing, regression testing and user acceptance testing.
-• Passion for testing, assuring end-to-end quality in development cycle
-• Customer and business oriented
-• Excellent leadership, technical and trouble-shooting skills
-• Expertise in Invoice Processing , Health Care , Device Management & Travel Domain
-• Change management adapting to newer technologies
-• Experience in working under Agile development teams (Scrum )
-• Worked as Onsite coordinator for Southwest Airlines in Dallas, TX, USA. & Dooap, Tampere, Finland
-• Ability to work effectively across teams located in different geographies
+    • Passion for testing, assuring end-to-end quality in development cycle
+    • Customer and business oriented
+    • Excellent leadership, technical and trouble-shooting skills
+    • Expertise in Invoice Processing , Health Care , Device Management & Travel Domain
+    • Change management adapting to newer technologies
+    • Experience in working under Agile development teams (Scrum )
+    • Worked as Onsite coordinator for Southwest Airlines in Dallas, TX, USA. & Dooap, Tampere, Finland
+    • Ability to work effectively across teams located in different geographies
 TECHNICAL SKILLS
 <strong>Testing Tools Frameworks</strong>: My current role uses C# as the primary language and have been testing applications in C# for the last two years. I am familiar with implementation of Xamarin UI Test framework. I have experience with an array of testing tools and technologies such as Selenium,Postman,Appium,TestNG <br/><br/>
 <strong>CI/CD Control</strong>: I have a good knowledge of application life-cycle management and have worked with Azure DevOps, SVN, Git, Jenkins, TeamCity, etc <br/><br/>
