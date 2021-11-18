@@ -9,7 +9,7 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
+ -title: Blog
    url: https://automateddeveloper.blogspot.com/
  - title: GitHub
    url: https://github.com/badarilr
