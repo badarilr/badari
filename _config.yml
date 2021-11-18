@@ -31,26 +31,22 @@ skills:
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
-   end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
+ - title: Test Lead
    start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
+   end: Ongoing
+   employer: Evry India
+   description: Develop and execute test plans and tracking and reporting on key metrics for customer adoption and success. Products include <a href="https://www.dooap.com" taget="_blank">Dooap</a>, <a href="https://www.beyondtrust.com/" taget="_blank">BeyondTrust</a>
+ - title: Senior Test Engineer
+   start: 2010
    end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Mindtree Ltd
+   description: Contributed to Southewest Rapid rewards project as test engineer.Performed System Testing, Functional Testing, Automation Testing,GUI Testing, Regression Testing, Ad hoc Testing, Migration and database testing
+ - title: Software Engineer
+   start: 2006
+   end: 2010
+   employer: Wipro Technologies
+   description: Worked as a Software Engineer in the Regression, Performance, Exploratory and Localization testing for HP Multifunctional Pheripherals. Design and Execution of FQP’s (Feature Qualification Plan) and high priority Test scripts and review based on the respective documents and comments which are attached in the design templates
+ 
 
 #Education is required
 education:
@@ -69,13 +65,13 @@ intro: |
     • Experience in working under Agile development teams (Scrum )
     • Worked as Onsite coordinator for Southwest Airlines in Dallas, TX, USA. & Dooap, Tampere, Finland
     • Ability to work effectively across teams located in different geographies
+    
 additionalinfo: |
- TECHNICAL SKILLS
-<strong>Testing Tools Frameworks</strong>: My current role uses C# as the primary language and have been testing applications in C# for the last two years. I am familiar with implementation of Xamarin UI Test framework. I have experience with an array of testing tools and technologies such as Selenium,Postman,Appium,TestNG <br/><br/>
-<strong>CI/CD Control</strong>: I have a good knowledge of application life-cycle management and have worked with Azure DevOps, SVN, Git, Jenkins, TeamCity, etc <br/><br/>
-<strong>Test Management</strong>:  :I have good knowledge of agile and product managemnt , defect life cycle and have worked with Jira, DevOps, HP Quality Center, qTest <br/><br/>
-   
 
+  <strong>Testing Tools Frameworks</strong>: My current role uses C# as the primary language and have been testing applications in C# for the last two years. I am familiar with implementation of Xamarin UI Test framework. I have experience with an array of testing tools and technologies such as Selenium,Postman,Appium,TestNG <br/><br/>
+  <strong>CI/CD Control</strong>: I have a good knowledge of application life-cycle management and have worked with Azure DevOps, SVN, Git, Jenkins, TeamCity, etc <br/><br/>
+  <strong>Test Management</strong>:  :I have good knowledge of agile and product managemnt , defect life cycle and have worked with Jira, DevOps, HP Quality Center, qTest <br/><br/>
    
+  
 
 theme: jekyll-theme-minimal
