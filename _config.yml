@@ -31,9 +31,14 @@ skills:
 
 #Work experience is required
 roles:
+- title: QA Manager
+   start: 2022
+   end: 2024
+   employer: Shell Markest India
+   description: •	Supervised a quality team of 40+ members across four departments, Workday, ADF, IMS & Shell Health bolstering departmental integration of processes and took ownership of end to end Testing </a>
  - title: Test Lead
    start: 2012
-   end: Ongoing
+   end: 2021
    employer: Evry India
    description: Develop and execute test plans and tracking and reporting on key metrics for customer adoption and success. Products include <a href="https://www.dooap.com" taget="_blank">Dooap</a>, <a href="https://www.beyondtrust.com/" taget="_blank">BeyondTrust</a>
  - title: Senior Test Engineer
