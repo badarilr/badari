@@ -31,11 +31,11 @@ skills:
 
 #Work experience is required
 roles:
-- title: QA Manager
-  start: 2022
-  end: 2024
-  employer: Shell Markets India
-  description: Supervised a quality team of 40+ members across four departments, Workday, ADF, IMS & Shell Health bolstering departmental integration of processes and took ownership of end to end Testing .
+ - title: QA Manager
+   start: 2022
+   end: 2024
+   employer: Shell Markets India
+   description: Supervised a quality team of 40+ members across four departments, Workday, ADF, IMS & Shell Health bolstering departmental integration of processes and took ownership of end to end Testing .
  - title: Test Lead
    start: 2012
    end: 2021
@@ -58,7 +58,6 @@ education:
  - level: Master of Computer Applications (M.C.A)
    date: 2006
    University: Visvesvaraya Technological University
-
 
 intro: |
  Knowledgeable and performance-driven Test Lead with experience in overall 12+ years in in software design and testing of Web, Content Management System,Power Apps, MFP, Identity Access Management and Mobile applications. Proven ability in all facets of quality control such as test planning, functional testing, regression testing and user acceptance testing.
